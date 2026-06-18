@@ -1,7 +1,7 @@
 # APT Attack Detection using Machine Learning
 
-**Course**: MAT3120.3 Machine Learning and Data Visualisation  
-**Student**: Asmitha Darani Balasooriya (10687611)
+**Course**: Machine Learning and Data Visualisation  
+
 
 A comparative study of multiple classification models for detecting Advanced Persistent Threat (APT) attacks from network traffic data.
 
