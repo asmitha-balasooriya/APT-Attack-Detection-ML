@@ -58,4 +58,12 @@ pip install -r requirements.txt
 python src/data_preprocessing.py
 
 # Train and evaluate models
-python src/train.py
+
+#to run bagging tree model
+python src/bagging_tree.py
+
+#to run classification tree model
+python src/classification_tree.py
+
+#to run logistic lasso regression model
+python src/logistic_lasso.py
