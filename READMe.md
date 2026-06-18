@@ -4,6 +4,7 @@
 
 
 A comparative study of multiple classification models for detecting Advanced Persistent Threat (APT) attacks from network traffic data.
+Programming Language used: R
 
 ---
 
@@ -32,10 +33,12 @@ A comparative study of multiple classification models for detecting Advanced Per
 ---
 
 ## 📂 Repository Structure
+
+```bash
 .
 ├── data
 │   └── WACY-COM.csv
-├── READMe.md
+├── README.md
 ├── reports
 │   ├── performance_summary.md
 │   └── Report on The Analysis and Modelling of a Dataset.pdf
@@ -46,7 +49,6 @@ A comparative study of multiple classification models for detecting Advanced Per
         ├── bagging_tree.R
         ├── classification_tree.R
         └── logistic_lasso.R
-
 ---
 
 ## 🚀 How to Run
