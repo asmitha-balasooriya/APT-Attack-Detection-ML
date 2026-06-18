@@ -32,7 +32,20 @@ A comparative study of multiple classification models for detecting Advanced Per
 ---
 
 ## 📂 Repository Structure
-(See folder structure above)
+.
+├── data
+│   └── WACY-COM.csv
+├── READMe.md
+├── reports
+│   ├── performance_summary.md
+│   └── Report on The Analysis and Modelling of a Dataset.pdf
+├── requirements.txt
+└── src
+    ├── data_preprocessing.R
+    └── models
+        ├── bagging_tree.R
+        ├── classification_tree.R
+        └── logistic_lasso.R
 
 ---
 
